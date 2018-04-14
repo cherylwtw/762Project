@@ -1,2 +1,2 @@
 # 762Project
-word2vec, doc2vec, weka 
+contains source code for school project
